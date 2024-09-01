@@ -1,13 +1,13 @@
 # Solution 1: Basic Approach Using Conditional Statements
 
 # Get the first number from the user and convert it to a float
-first_number = input(float("Enter the first number: "))
+first_number = input(2.6)
 
 # Get the operation from the user (+, -, *, /)
-operation = input("Enter operation (+, -, *, /): ")
+operation = input("+")
 
 # Get the second number from the user and convert it to a float
-second_number = input(float("Enter the second number: "))
+second_number = input(1.3)
 
 # Initialize a variable to store the result
 result = None
